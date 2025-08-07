@@ -1,6 +1,6 @@
-import { MdInbox } from "react-icons/md";
+//import { MdInbox } from "react-icons/md";
 import { UserCard } from "../components/UserCard";
-import { type CardUserProps } from "../libs/CardUserType";
+//import { type CardUserProps } from "../libs/CardUserType";
 import { cleanUser } from "../libs/CleanUser";
 import axios from "axios";
 import { useEffect, useState } from "react";
